@@ -1,4 +1,4 @@
 # Teaching-Programming-Portfolio
 Used for course EDS 124BR at UCSD
 
-You can find video recordings in the folder titled "Videos"
+Click on this link to watch my video submission ["Show What You Know"](https://youtu.be/_0I_byKYrgk)
