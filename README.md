@@ -6,3 +6,8 @@ Click on this link to watch my video submission ["Show What You Know: Sequences"
 Click on this link to watch my video submission for ["Show What You Know: Repeats"](https://youtu.be/vmjTPxyGY14)
 
 Click on this link to watch my video submission for ["Lesson Plan: Explaining Repeats on Scratch"](https://youtu.be/CUJ9ZxDqsSM)
+
+Click on this link to watch my video submission for ["Code Walkthrough: Nested Loops"](https://youtu.be/qolkarjTjQY)
+
+Click on this link to watch my video submission for ["Code Walkthrough: Events"](https://youtu.be/lVEOYpUDyTk)
+
