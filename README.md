@@ -12,3 +12,6 @@ Click on this link to watch my video submission for ["Code Walkthrough: Nested L
 Click on this link to watch my video submission for ["Code Walkthrough: Events"](https://youtu.be/lVEOYpUDyTk)
 
 Click on this link to watch my video submission for ["Code Walkthrough: Variables"](https://youtu.be/hI2_GxdFYU4)
+
+Click on this link to watch my video submission for ["Code Walkthrough: Conditional Loops"](https://youtu.be/G4Axk0Fpn9E)
+
