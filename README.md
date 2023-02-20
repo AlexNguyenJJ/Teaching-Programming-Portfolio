@@ -15,3 +15,4 @@ Click on this link to watch my video submission for ["Code Walkthrough: Variable
 
 Click on this link to watch my video submission for ["Code Walkthrough: Conditional Loops"](https://youtu.be/G4Axk0Fpn9E)
 
+Click on this link to watch my video submission for ["Code Walkthrough: If Statements"](https://youtu.be/r7uJLv9sOjw)
