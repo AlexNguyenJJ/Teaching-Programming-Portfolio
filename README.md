@@ -18,3 +18,5 @@ Click on this link to watch my video submission for ["Code Walkthrough: Conditio
 Click on this link to watch my video submission for ["Code Walkthrough: If Statements"](https://youtu.be/r7uJLv9sOjw)
 
 Click on this link to watch my video submission for ["Code Walkthrough: Nested If/Else Statements"](https://youtu.be/84kiKBwMjOY)
+
+Click on this link to watch my video submission for ["Code Walkthrough: Compound Conditionals"](https://youtu.be/-d7QPiqVSAE)
