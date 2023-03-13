@@ -20,3 +20,5 @@ Click on this link to watch my video submission for ["Code Walkthrough: If State
 Click on this link to watch my video submission for ["Code Walkthrough: Nested If/Else Statements"](https://youtu.be/84kiKBwMjOY)
 
 Click on this link to watch my video submission for ["Code Walkthrough: Compound Conditionals"](https://youtu.be/-d7QPiqVSAE)
+
+Click on this link to watch my video submission for ["Code Walkthrough: Abstraction"](https://youtu.be/CmSWDFk9ZHs)
