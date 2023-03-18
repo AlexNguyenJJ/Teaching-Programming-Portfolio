@@ -22,3 +22,5 @@ Click on this link to watch my video submission for ["Code Walkthrough: Nested I
 Click on this link to watch my video submission for ["Code Walkthrough: Compound Conditionals"](https://youtu.be/-d7QPiqVSAE)
 
 Click on this link to watch my video submission for ["Code Walkthrough: Abstraction"](https://youtu.be/CmSWDFk9ZHs)
+
+Click on this link to watch my video submission for ["Code Walkthrough: Lists"](https://youtu.be/yBgssoox5eI)
